@@ -66,7 +66,10 @@ Blog - Your own blog website or platform like https://hashnode.com/ Hashnode or 
 
 ## Compitations & Contest 
 > Participate in Hackatons [ Online Platforms & Offline by Compaines and College ]
+
 > Participate in Other Activites at College : ex : Sports, Cutural, Writing have certification
+
 > Take Leadership or Volunteer positions in Clubs or Class
-> 
+
+> Stand out your profile from everybody
 
