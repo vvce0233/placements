@@ -54,3 +54,12 @@ LeetCode - https://leetcode.com/
 Codeforce - https://codeforces.com/
 FreeCodeCamp - https://www.freecodecamp.org/
 GeeksforGeeks - https://www.geeksforgeeks.org/
+
+## Profile & Resume 
+Linkedin - https://linkedin.com/
+Github - https://github.com/
+Coursera - https://coursera.com/ or any other certification platform 
+### Additionals : 
+Portfolio - Your own Portfolio Website 
+Blog - Your own blog website or platform like https://hashnode.com/ Hashnode or https://dev.to/ : DEV
+
