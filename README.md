@@ -1,6 +1,6 @@
 ## Beginners Guide : 
 
-FUll LINKS == >> linktr.ee/hiten.codes
+FUll LINKS == >> https://linktr.ee/hiten.codes
 
 HTML - https://www.w3schools.com/html
 
