@@ -61,5 +61,6 @@ Github - https://github.com/
 Coursera - https://coursera.com/ or any other certification platform 
 ### Additionals : 
 Portfolio - Your own Portfolio Website 
+
 Blog - Your own blog website or platform like https://hashnode.com/ Hashnode or https://dev.to/ : DEV
 
