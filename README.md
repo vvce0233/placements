@@ -1,7 +1,5 @@
 ## Beginners Guide : 
 
-FUll LINKS == >> https://linktr.ee/hiten.codes
-
 HTML - https://www.w3schools.com/html
 
 CSS- http://CSS-tricks.com
@@ -41,3 +39,18 @@ Artificial Intelligence Internship* -  https://tinyurl.com/46hwpzc7
  Backend Developer Internship (AI & SaaS Focus)* - https://tinyurl.com/m775m2xe
 
  Flutter Developer Internship* -  https://tinyurl.com/5fasa9s6
+
+ ## Apitude 
+
+ Lintree - https://linktr.ee/hiten.codes
+ IndiaBix - https://www.indiabix.com/
+ PrepInsta - https://prepinsta.com/
+
+ ## Webistes for Pratice and Contests
+
+Codechef - https://www.codechef.com/
+Hacckerrank - https://www.hackerrank.com/
+LeetCode - https://leetcode.com/
+Codeforce - https://codeforces.com/
+FreeCodeCamp - https://www.freecodecamp.org/
+GeeksforGeeks - https://www.geeksforgeeks.org/
