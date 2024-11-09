@@ -64,3 +64,9 @@ Portfolio - Your own Portfolio Website
 
 Blog - Your own blog website or platform like https://hashnode.com/ Hashnode or https://dev.to/ : DEV
 
+## Compitations & Contest 
+> Participate in Hackatons [ Online Platforms & Offline by Compaines and College ]
+> Participate in Other Activites at College : ex : Sports, Cutural, Writing have certification
+> Take Leadership or Volunteer positions in Clubs or Class
+> 
+
